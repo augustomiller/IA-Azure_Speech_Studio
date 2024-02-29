@@ -100,7 +100,7 @@ https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quick
 ## Exemplo de como fazer uma transcrição utilizando Python
 <details>
   <summary>
-    <h2>Expanda para ver o código 🚀</h2>
+    Expanda para ver o código 🚀
   </summary>
 
   ```python
