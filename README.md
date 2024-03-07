@@ -22,7 +22,7 @@
 - [Bash](https://www.gnu.org/software/bash/)
 - [Git](https://git-scm.com/)
 
-  ## Documentação
+## Documentação
 
 - [Azure Speech Studio Doc](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/)
 - [Microsoft Copilot Doc](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
